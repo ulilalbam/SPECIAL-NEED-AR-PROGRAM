@@ -1,2 +1,2 @@
-# SPECIAL NEED AR PROGRAM
-Augmented Reality application was made for children with special need. Application developed using ARToolkit Library and Unity Game Engine..
+# Pengenalan Objek untuk Anak Berbasis Augmented Reality
+Aplikasi ini dibuat menggunakan unity dan library ARToolkit. Ditujukan untuk anak kelas dasar berkebutuhan khusus.
